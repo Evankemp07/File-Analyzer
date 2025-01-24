@@ -16,8 +16,6 @@ MSVC, Clang, GCC x64
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [VS Code cpp docs](https://code.visualstudio.com/docs/languages/cpp)
 - [Geek for Geek std::map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
 
