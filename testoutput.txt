@@ -1,0 +1,9 @@
+Word occurrences (sorted by frequency):
+brown: 60
+dog: 60
+fox: 60
+jumps: 60
+lazy: 60
+over: 60
+quick: 60
+the: 120
